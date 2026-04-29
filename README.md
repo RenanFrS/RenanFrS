@@ -54,6 +54,14 @@ Welcome to my Github!
 </div>
 <br/>
 
+### 📊 GitHub Stats
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFrS&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFrS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+</div>
+
+### Socials
 <div align="left">
   <a href="mailto:renanrocha.01@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iCloud_Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/renan-frs-rocha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
