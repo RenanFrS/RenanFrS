@@ -36,6 +36,7 @@ Welcome to my Github!
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
 ### Banco de Dados
@@ -58,7 +59,6 @@ Welcome to my Github!
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFrS&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFrS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 ### Socials
