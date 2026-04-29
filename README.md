@@ -1,16 +1,46 @@
-## Hi there 👋
+# Renan Rocha
 
-<!--
-**RenanFrS/RenanFrS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
 
-Here are some ideas to get you started:
+🎓 Meu nome é Renan Rocha, sou Desenvolvedor Full-stack e estudante de tecnologia na UNIFECAF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atuo no desenvolvimento de sistemas web e automação de fluxos de trabalho desde 2024, com foco em soluções eficientes e escaláveis.
+
+🏆 Atualmente sou Full-stack Developer na 3Print e focado no desenvolvimento da FRS Corp.
+
+🎯 Meu objetivo é criar tecnologias que simplifiquem processos complexos e entregar valor real através de automações e interfaces inovadoras e modernas.
+
+Seja muito bem-vindo ao meu Github!
+
+## Hey there 👋
+
+🎓 My name is Renan Rocha, I'm a Full-stack Developer and a technology student at UNIFECAF.
+
+🚀 I've been working on web development and workflow automation since 2024, focusing on efficient and scalable solutions.
+
+🏆 I'm currently a Full-stack Developer at 3Print and focused on building FRS Corp.
+
+🎯 My goal is to create technologies that simplify complex processes and deliver real value through automation and modern and innovative interfaces.
+
+Welcome to my Github!
+
+## MY SKILLS
+
+<div align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/linux_mint-%2387CF3E.svg?style=for-the-badge&logo=linuxmint&logoColor=white" target="_blank">
+</div>
+
+<br/>
+
+<div align="left">
+  <a href="mailto:renanrocha.01@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iCloud_Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/renan-frs-rocha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/renanrocha.01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
